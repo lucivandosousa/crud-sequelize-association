@@ -25,6 +25,16 @@ npm install
 ## Funcionalidades
 ### 1. Iniciar a API.
 
+Criar arquivo ".env" na raiz do projeto com as variáveis de conexão com banco de dados:
+
+Exemplo:
+- DB_HOST="IP do host"
+- DB_USER="Usuário de acesso ao banco de dados"
+- DB_PASSWORD="Senha de acesso ao banco de dados"
+- DB_NAME="Nome do banco de dados"
+- DB_PORT="Porta de acesso ao banco de dados"
+
+
 Para criar o banco de dados, execute o seguinte comando:
 
 ```
